@@ -1,0 +1,9 @@
+tree("Root")
+	fallback
+		sequence
+			JugadorEnRango
+			CalcularRuta
+			Atacar
+		sequence
+			JugadorAtaca
+			Cubrirse

@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Scenes/MovePlayer.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
